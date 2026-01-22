@@ -1,12 +1,11 @@
 
-[![MasterHead](https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg)]
+![MasterHead](https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg)
 <h1 align="center">Hi 👋, I'm Mohd Affan</h1>
 <h3 align="center">A passionate Full Stack developer </h3>
 <img al>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdaffan01&label=Profile%20views&color=0e75b6&style=flat" alt="mohdaffan01" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React , React Native**
 
@@ -28,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdaffan01&show_icons=true&locale=en" alt="mohdaffan01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdaffan01&" alt="mohdaffan01" /></p>
+
