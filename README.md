@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg)
+[![MasterHead](https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg)]
 <h1 align="center">Hi 👋, I'm Mohd Affan</h1>
 <h3 align="center">A passionate Full Stack developer </h3>
 <img al>
