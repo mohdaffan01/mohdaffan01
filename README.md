@@ -12,6 +12,7 @@
 - 💬 Ask me about **MERN , Java**
 
 - 📫 How to reach me **mohdaffan338@gmail.com**
+- 👩‍💻 Portfolio - **https://affan-personalportfolio.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
