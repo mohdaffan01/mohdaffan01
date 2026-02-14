@@ -27,7 +27,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohdaffan01&theme=tokyo-night)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdaffan01&theme=tokyonight)
+
 
 
 
