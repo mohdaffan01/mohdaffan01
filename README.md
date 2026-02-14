@@ -28,5 +28,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdaffan01&show_icons=true&theme=tokyonight)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohdaffan01&theme=tokyo-night)
+
 
 
