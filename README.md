@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://ishan-rest.vercel.app/svg/banner/filelist/svg/banner/filelist/root[file1,file2,file3,file4]/root2[f1,f2,f3]" width="100%" height="200" alt="Header Banner" />
+  <img src="https://ishan-rest.vercel.app/svg/banner/filelist/svg/banner/filelist/root[file1,file2,file3,file4]/root2[f1,f2,f3]" width="100%" height="400" alt="Header Banner" />
   <h1>Hi, I'm Mohd Affan</h1>
   <h3>A passionate Full Stack Developer </h3>
 
