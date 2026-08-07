@@ -8,7 +8,7 @@
   </p>
 </div>
 
-<h3 align="center">About Me</h3>
+<h3>About Me</h3>
 
 - Ask me about **MERN Stack, C, Java, MySQL, Docker, DSA, System Design**
 - Portfolio: [affan-personalportfolio.netlify.app](https://affan-personalportfolio.netlify.app/)
