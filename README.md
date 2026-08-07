@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://ishan-rest.vercel.app/svg/banner/github" width="100%" height="200" alt="Header Banner" />
   <h1>Hi, I'm Mohd Affan</h1>
@@ -9,25 +8,23 @@
   </p>
 </div>
 
-<hr />
-
 <h3 align="center">About Me</h3>
 
 - Ask me about **MERN Stack, C, Java, MySQL, Docker, DSA, System Design**
 - Portfolio: [affan-personalportfolio.netlify.app](https://affan-personalportfolio.netlify.app/)
 - Email: **mohdaffan338@gmail.com**
 
-<hr />
 
 <h3>Connect with Me</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohdaffan01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/themdaffan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://discord.gg/mdaffan01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+  <a href="https:/discord.gg/mdaffan01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
-<hr />
+
+
 
 <h3>Languages & Tools</h3>
 
@@ -63,7 +60,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
 </p>
 
-<hr />
+
 
 <h3>GitHub Stats & Activity</h3>
 
@@ -74,10 +71,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdaffan01&theme=tokyo-night" alt="Activity Graph" />
 </p>
-
-
-
-
 
 
 
