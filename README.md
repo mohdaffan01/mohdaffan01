@@ -58,7 +58,7 @@
 
 <h3>GitHub Stats & Activity</h3>
 
-<p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=mohdaffan01&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
