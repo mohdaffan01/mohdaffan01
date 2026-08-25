@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="<img width="1376" height="768" alt="falc-banner" src="https://github.com/user-attachments/assets/1d92832b-de0a-46d7-a0e2-f6f7f929add1" />
-" />
+  <img width="1376" height="768" alt="falc-banner" src="https://github.com/user-attachments/assets/1d92832b-de0a-46d7-a0e2-f6f7f929add1" />
   <h1>Hi, I'm Mohd Affan</h1>
   <h3>A passionate Full Stack Developer </h3>
 
