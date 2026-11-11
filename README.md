@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Mohd Affan</h1>
-  <h3>A passionate Full Stack Developer </h3>
+  <h3>Full Stack Dev </h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=mohdaffan01&label=Profile%20views&color=0e75b6&style=flat-square" alt="mohdaffan01" />
@@ -61,9 +61,7 @@
   <img src="https://streak-stats.demolab.com?user=mohdaffan01&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdaffan01&theme=tokyo-night" alt="Activity Graph" />
-</p>
+
 
 
 
