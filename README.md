@@ -4,7 +4,7 @@
 
   <!-- Animated Typing SVG Subtitle -->
   <a href="https://affan-personalportfolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=520&height=45&lines=Full+Stack+Developer;MERN+Stack+Specialist;DSA+%26+System+Design+Enthusiast;Building+Scalable+Modern+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=520&height=45&lines=Full+Stack+Developer;MERN+Stack+Specialist;DSA+%26+System+Design+Enthusiast;Building+Scalable+Modern+Web+Applications" alt="Typing SVG" />
   </a>
 
   <p>
