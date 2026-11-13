@@ -37,35 +37,9 @@
 ### About Me
 
 - **Passionate Full Stack Developer** dedicated to building scalable web applications with smooth UX.
-- Ask me about **MERN Stack, Java, C, MySQL, Docker, DSA, and System Design**.
+- Ask me about **JavaScript, MERN Stack, , MySQL, Java, C, Docker, DSA, and System Design**.
 - Portfolio: [affan-personalportfolio.netlify.app](https://affan-personalportfolio.netlify.app/)
 - Email: [mohdaffan338@gmail.com](mailto:mohdaffan338@gmail.com)
-- Fun fact: I turn coffee into performant, clean code.
-
----
-
-### Tech Stack & Skills
-
-<p align="center">
-  <b>Frontend & Mobile Development</b><br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Skills" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Backend, Systems & Languages</b><br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,java,py,c,mongodb,mysql,firebase&theme=dark" alt="Backend Skills" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Cloud Infrastructure & Developer Tools</b><br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,git,figma&theme=dark" alt="Tools & Cloud" />
-  </a>
-</p>
 
 ---
 
