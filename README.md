@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hi, I'm Mohd Affan</h1>
-  <h3>Full Stack Developer | MERN Specialist | Problem Solver</h3>
+  <h3>Full Stack Developer | MERN Stack Specialist | Software Engineer</h3>
 
   <!-- Animated Typing SVG Subtitle -->
   <a href="https://affan-personalportfolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=520&height=45&lines=Full+Stack+Developer;MERN+Stack+Specialist;Problem+Solver+%7C+DSA+%26+System+Design;Building+modern+scalable+web+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=520&height=45&lines=Full+Stack+Developer;MERN+Stack+Specialist;DSA+%26+System+Design+Enthusiast;Building+Scalable+Modern+Web+Applications" alt="Typing SVG" />
   </a>
 
   <p>
@@ -36,8 +36,8 @@
 
 ### About Me
 
-- **Passionate Full Stack Developer** dedicated to building scalable web applications with smooth UX.
-- Ask me about **JavaScript, MERN Stack, , MySQL, Java, C, Docker, DSA, and System Design**.
+- **Full Stack Developer** focused on building scalable, high-performance web applications with clean code and seamless user experiences.
+- Experienced in **JavaScript, the MERN Stack, MySQL, Java, C, and Docker**, with a strong foundation in **Data Structures, Algorithms, and System Design**.
 - Portfolio: [affan-personalportfolio.netlify.app](https://affan-personalportfolio.netlify.app/)
 - Email: [mohdaffan338@gmail.com](mailto:mohdaffan338@gmail.com)
 
@@ -51,12 +51,3 @@
   </a>
   
 </p>
-
-
-
----
-
-<div align="center">
-  <p>From <b>Mohd Affan</b> — Thanks for visiting my GitHub profile!</p>
-</div>
-
